@@ -1,0 +1,27 @@
+body {
+    background-color: #FCFDF2;
+}
+
+h1 {
+    color: #2A0944;
+    font-weight: bold;
+}
+
+input[type="text"],
+input[type="text"]:focus {
+    color: #2A0944;
+    border: none;
+    background: #E0DECA;
+    padding: 15px;
+    border-radius: 0;
+}
+
+li {
+    background: #D49B54;
+    padding: 15px;
+    overflow-wrap: anywhere;
+}
+
+.delete {
+    color: #61481C;
+}
